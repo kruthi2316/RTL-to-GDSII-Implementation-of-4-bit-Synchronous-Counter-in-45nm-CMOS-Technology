@@ -104,11 +104,11 @@ The flow covers:
 
 ## Author
 
-**Name:** Kruthi Narayana Swamy 
-**Role:** Graduate Teaching Assistant | Digital Design Enthusiast  
-**Skills:** RTL Design, Synthesis, Physical Design, Timing Analysis, Cadence Tools, Synopsys Tools  
-**GitHub:** [kruthi2316](https://github.com/kruthi2316)  
-**LinkedIn:** [linkedin.com/in/kruthi-n](https://www.linkedin.com/in/kruthi-n)  
+- **Name:** Kruthi Narayana Swamy 
+- **Role:** Graduate Teaching Assistant | Digital Design Enthusiast  
+- **Skills:** RTL Design, Synthesis, Physical Design, Timing Analysis, Cadence Tools, Synopsys Tools  
+- **GitHub:** [kruthi2316](https://github.com/kruthi2316)  
+- **LinkedIn:** [linkedin.com/in/kruthi-n](https://www.linkedin.com/in/kruthi-n)  
 
 ---
 
