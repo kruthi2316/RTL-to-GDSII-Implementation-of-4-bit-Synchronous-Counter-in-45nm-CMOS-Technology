@@ -1,0 +1,143 @@
+0 
+19
++v2k
+-Mamsrun=
+-Masflags=--32
+-Mcc=g++
+-Mcfl= -pipe -m32 -O -I/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mldflags= -melf_i386 -m32 -m32
+-Mobjects= /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/libvirsim.so /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/librterrorinf.so /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/vcs_save_restore_new.o
+-Msyslibs=/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/ctype-stubs_32.a -ldl
+-Mvcsaceobjs=
+-gen_obj
+/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/bin/vcs1
+counter.v
+counter_tb.v
+112
+sysc_uni_pwd=/Users/Grad/knarayanaswamy/ECEfiles/ASIC/counter/RTL
+gpdk180_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/gpdk180_v3.3
+gpdk090_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/gpdk090_v4.6
+gpdk045_v_6_0_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/gpdk045_v_6_0
+gpdk045_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/gpdk045_v_3_5
+XDG_SESSION_ID=21246
+XDG_RUNTIME_DIR=/run/user/23650
+XDG_DATA_DIRS=/Users/Grad/knarayanaswamy/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+XCELIUM=/ECEnet/Apps1/linux/cad13/tools/cadence/XCELIUM1903
+VRST_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/INCISIVE152
+VMR_MODE_FLAG=32
+VMANAGER_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/INCISIVE152/components/vm
+VENDOR=unknown
+VCS_MX_HOME_INTERNAL=1
+VCS_HOME=/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux
+VCS_AMD_PURE32=1
+UNAME=/bin/uname
+TSMC18RF_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/TSMC18RF
+TOOL_HOME=/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux
+TCAD=/ECEnet/Apps1/linux/cad12/tools/synopsys/tcad_sentaurus_vF-2011.09-SP1
+SYNPLIFYHOME=/ECEnet/Apps1/linux/cad12/tools
+SYNOPSYS=/ECEnet/Apps1/linux/cad12/tools/synopsys/SYNTHESIS_vH-2013.03-SP3
+STROOT=/ECEnet/Apps1/linux/cad12/tools/synopsys/tcad_sentaurus_vF-2011.09-SP1
+STDB=/Users/Grad/knarayanaswamy/DB
+STAR_RCXT=/ECEnet/Apps1/linux/cad12/tools/synopsys/starrc_vF-2011.12-SP2
+SSH_TTY=/dev/pts/0
+SSH_CONNECTION=10.15.240.157 57948 10.90.9.99 22
+SSH_CLIENT=10.15.240.157 57948 22
+SPECMAN_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/INCISIVE152/components/sn
+SPB_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/SPB172
+SOCV_KIT_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/INCISIVE152/kits/VerificationKit
+SNPS_SX=/ECEnet/Apps1/linux/cad12/tools/synopsys/customexp_vJ-2014.09
+SNPS_SIMIF=/ECEnet/Apps1/linux/cad12/tools/synopsys/hspice_vF-2011.09-SP2
+SNPS_HSIM=/ECEnet/Apps1/linux/cad12/tools/synopsys/hsimplus_vF-2011.09
+SKIP_CDS_DIALOG=
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SCL=/ECEnet/Apps1/linux/cad12/tools/synopsys/scl_v11.3
+SCD=/ECEnet/Apps1/linux/cad12/tools/synopsys/customdesigner_vE-2011.03
+REMOTEHOST=10.15.240.157
+RC_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/RC142
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+QRC_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/EXT191
+PYTHONPATH=/ECEnet/Apps1/linux/cad12/tools/ciranova/pycellstudio/pylib:/ECEnet/Apps1/linux/cad12/tools/ciranova/pycellstudio/plat_linux_gcc44x_64/pyext:/ECEnet/Apps1/linux/cad12/tools/ciranova/pycellstudio/plat_linux_gcc44x_64/lib:.
+PYTHONHOME=/ECEnet/Apps1/linux/cad12/tools/ciranova/pycellstudio/plat_linux_gcc44x_64/3rd
+PRIME_ST=/ECEnet/Apps1/linux/cad12/tools/synopsys/pts_vH-2013.06-SP1
+PDK_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/FreePDK45
+PDKS=/ECEnet/Apps1/linux/cad12/tools/PDKs
+PASHOME=/ECEnet/Apps1/linux/cad13/tools/cadence/pas31
+PACIFIC=/ECEnet/Apps1/linux/cad12/tools/cadence/PACIFIC61
+OVA_UUM=0
+OSTYPE=linux
+OA_PLUGIN_PATH=/ECEnet/Apps1/linux/cad12/tools/ciranova/pycellstudio/plat_linux_gcc44x_64/3rd/oa/data/plugins:/ECEnet/Apps1/linux/cad12/tools/ciranova/pycellstudio/quickstart
+OA_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/IC618/oa_v22.60.022
+OA_COMPILER=gcc44x
+NOVERSION=1
+MPDK_HL18G_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/Magnachip180_02082012
+MODELSIM=/ECEnet/Apps1/linux/cad12/tools/mentor/modelsim_se_10.1a/modeltech
+MMSIM_ROOT=/ECEnet/Apps1/linux/cad13/tools/cadence/SPECTRE191
+MMSIMHOME=/ECEnet/Apps1/linux/cad13/tools/cadence/SPECTRE191
+MGC_HOME=/ECEnet/Apps1/linux/cad13/tools/mentor/aoi_cal_2019.4_28.13
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LDV_INST_DIR=/ECEnet/Apps1/linux/cad12/tools
+LDV_HOME=/ECEnet/Apps1/linux/cad12/tools
+INCISIVE=/ECEnet/Apps1/linux/cad13/tools/cadence/INCISIVE152
+IFV_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/INCISIVE152
+IC_COMPILER=/ECEnet/Apps1/linux/cad12/tools/synopsys/IC_COMPILER_vH-2013.03-SP3
+HSPICE=/ECEnet/Apps1/linux/cad12/tools/synopsys/hspice_vJ-2014.09-SP2
+HOSTTYPE=x86_64-linux
+HOSTNAME=09vlab099.coe.neu.edu
+HOST=09vlab099.coe.neu.edu
+HISTCONTROL=ignoredups
+HERCULES=/ECEnet/Apps1/linux/cad12/tools/synopsys/hercules_vB-2008.09-SP4
+GROUP=Grad
+FORMALITY=/ECEnet/Apps1/linux/cad12/tools/synopsys/FORMALITY_vH-2013.03-SP3
+ET_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/ET151
+ETSHOME=/ECEnet/Apps1/linux/cad12/tools/cadence/ETS101
+EDIHOME=/ECEnet/Apps1/linux/cad13/tools/cadence/EDI142
+DPDK_RF011_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/DPDK_1225_1233rf11sa_Rev0p1_0
+DPDK_BD350BB_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/Dongbu350_09072011_v1_29_02
+CTOS_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/CTOS142
+CSC=/ECEnet/Apps1/linux/cad12/tools/synopsys/cosmosscope_vE-2011.03
+CONFRML_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/CONFRML182
+CONCEPT_INST_DIR=/ECEnet/Apps1/linux/cad13/tools/cadence/SPB172
+CNI_ROOT=/ECEnet/Apps1/linux/cad12/tools/ciranova/pycellstudio
+CNI_LOG_DEFAULT=/dev/null
+CDS_ROOT=/ECEnet/Apps1/linux/cad13/tools/cadence/IC618
+CDS_Netlisting_Mode=Analog
+CDS_LOAD_ENV=CSF
+CDS_INST_DIR=/ECEnet/Apps1/linux/cad13/tools/cadence/IC618
+CDS_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/IC618
+CDS_AUTO_64BIT=pipo layout.exe layoutPlus.exe ERC cdba2icc ivVerify
+CDSHOME=/ECEnet/Apps1/linux/cad13/tools/cadence/IC618
+CDK_DIR=/ECEnet/Apps1/linux/cad12/tools/PDKs/ncsu-cdk-1.6.0
+CAD_TOOLS=/ECEnet/Apps1/linux/cad12/tools
+BITMODE=32
+ASTRO_RAIL=/ECEnet/Apps1/linux/cad12/tools/synopsys/astro-rail_vZ-2007.03-SP11
+ASTRO_IU=/ECEnet/Apps1/linux/cad12/tools/synopsys/astro_iu_vZ-2007.03-SP12
+ASTRO=/ECEnet/Apps1/linux/cad12/tools/synopsys/astro_vZ-2007.03-SP12
+ASSURAHOME=/ECEnet/Apps1/linux/cad13/tools/cadence/ASSURA41-618
+ALSDIR=/ECEnet/Apps1/linux/cad12/tools
+ADW_HOME=/ECEnet/Apps1/linux/cad13/tools/cadence/ADW166
+0
+2
+1753997854 counter_tb.v
+1753997670 counter.v
+4
+0 
+1346872802 /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/libvirsim.so
+1346872800 /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/librterrorinf.so
+1346872804 /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/libsnpsmalloc.so

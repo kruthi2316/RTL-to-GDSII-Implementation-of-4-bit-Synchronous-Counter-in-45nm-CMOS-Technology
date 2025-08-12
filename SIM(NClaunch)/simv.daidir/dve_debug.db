@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<opml version="1.0">
+	<head>
+		<title>VCS dump file for DVE debugging</title>
+		<vcsVersion>F-2011.12</vcsVersion>
+		<dateCreated>Wed Aug  6 20:23:45 2025</dateCreated>
+	</head>
+	<body>
+		<!-- VCS compile options -->
+		<vcsCompileOptions text="/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/bin/vcs1 -Mcc=gcc -Mcplusplus=g++ -Masflags=--32 -Mcfl= -pipe -m32 -O -I/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/include  -Mldflags= -melf_i386 -m32  -Mout=simv -Mamsrun= -Mvcsaceobjs= -Mobjects= /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/libvirsim.so /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/librterrorinf.so /ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/libsnpsmalloc.so  -Msaverestoreobj=/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/vcs_save_restore_new.o -Mcrt0= -Mcrtn= -Mcsrc= -Msyslibs=/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/ctype-stubs_32.a -ldl -lm  +v2k -Xcbug=0x1 -debug_all +cli+4 +vcsd +itf+/ECEnet/Apps1/linux/cad12/tools/synopsys/vcs_mx_vF-2011.12/linux/lib/vcsd.tab +vpi -line -debug=4 +memcbk +vpi -gen_obj counter.v counter_tb.v "/>
+		<!-- File list for the whole design -->
+		<fileList>
+			<file fid="0" path="/ECEnet/home/student/knarayanaswamy/ASIC/counter/RTL/counter.v" />
+			<file fid="1" path="/ECEnet/home/student/knarayanaswamy/ASIC/counter/RTL/counter_tb.v" />
+		</fileList>
+		<!-- Include file list for the whole design -->
+		<includeFileList>
+		</includeFileList>
+		<!-- Encrypted codes list for the whole design -->
+		<encryptedCodesList>
+		</encryptedCodesList>
+		<!-- Inactive codes list for the whole design -->
+		<inactiveCodesList>
+		</inactiveCodesList>
+		<!-- Compile options UUM based -->
+		<langKeywords>
+			<v2kFiles fid="0-1" />
+		</langKeywords>
+		<!--  Case insensitive file list -->
+		<caseInsensitiveFiles fid="" />
+		<!-- Macro definition list for the whole design --> 
+		<macroDefinitionList>
+		</macroDefinitionList>
+		<!-- Macro value list for the whole design --> 
+		<macroValueList>
+		</macroValueList>
+	</body>
+</opml>

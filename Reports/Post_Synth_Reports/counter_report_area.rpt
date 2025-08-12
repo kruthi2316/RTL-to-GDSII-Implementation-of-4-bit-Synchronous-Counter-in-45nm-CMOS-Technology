@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : counter
+Version: H-2013.03-SP3
+Date   : Thu Jul 31 18:12:02 2025
+****************************************
+
+Library(s) Used:
+
+    gscl45nm (File: /Users/Grad/knarayanaswamy/verilog/nandgate/osu_soc/lib/files/gscl45nm.db)
+
+Number of ports:                            6
+Number of nets:                            26
+Number of cells:                           24
+Number of combinational cells:             20
+Number of sequential cells:                 4
+Number of macros/black boxes:               0
+Number of buf/inv:                         11
+Number of references:                      10
+
+Combinational area:                 46.929999
+Buf/Inv area:                       19.241300
+Noncombinational area:              31.912399
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                    78.842398
+Total area:                 undefined
+1

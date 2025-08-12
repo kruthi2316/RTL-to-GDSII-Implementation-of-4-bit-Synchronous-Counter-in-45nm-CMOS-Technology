@@ -1,0 +1,72 @@
+*----------------------------------------------------------------------------------------
+*	Innovus 18.17-s055_1 (64bit) 02/13/2020 15:11 (Linux 2.6.18-194.el5)
+*	
+*
+* 	Date & Time:	2025-Aug-10 22:58:06 (2025-Aug-11 02:58:06 GMT)
+*
+*----------------------------------------------------------------------------------------
+*
+*	Design: counter
+*
+*	Liberty Libraries used: 
+*	        analysis_default: ./nandgate/osu_soc/lib/files/gscl45nm.lib
+*
+*	Power Domain used: 
+*              Rail:        VDD      Voltage:        1.1 
+*
+*       Power View : analysis_default
+*
+*       User-Defined Activity : N.A.
+*
+*       Activity File: N.A.
+*
+*       Hierarchical Global Activity: N.A.
+*
+*       Global Activity: N.A.
+*
+*       Sequential Element Activity: N.A.
+*
+*       Primary Input Activity: 0.200000
+*
+*       Default icg ratio: N.A.
+*
+*       Global Comb ClockGate Ratio: N.A.
+*
+*	Power Units = 1mW
+*
+*	Time Units = 1e-09 secs 
+*
+*       Temperature = 27.000000 
+*
+*       report_power -outfile ./run1/counter.rpt -rail_analysis_format VS
+*
+-----------------------------------------------------------------------------------------
+Cell                            Internal   Switching       Total     Leakage   Cell
+                                   Power       Power       Power       Power   Name
+--------------------------------------------------------------------------------------
+out_reg[0]                       0.05728    0.006025     0.06336   5.498e-05  DFFPOSX1
+out_reg[1]                       0.05742    0.004489     0.06196   5.498e-05  DFFPOSX1
+out_reg[2]                       0.05455    0.002781     0.05739   5.498e-05  DFFPOSX1
+out_reg[3]                        0.0538    0.002547      0.0564   5.498e-05  DFFPOSX1
+U17                             0.007054    0.002408    0.009491   2.998e-05  XNOR2X1
+U10                             0.007432    0.001698    0.009175   4.515e-05  XOR2X1
+U27                             0.001954    0.003045    0.005024   2.456e-05  AND2X2
+U15                            0.0003861    0.003748    0.004136   1.742e-06  INVX1
+U25                             0.002888   0.0008311    0.003733   1.374e-05  OR2X1
+U29                             0.002436    0.001206    0.003658   1.561e-05  AND2X1
+U16                             0.001719    0.001538    0.003272   1.561e-05  AND2X1
+U31                            0.0004069    0.002721     0.00313   1.742e-06  INVX1
+U12                              0.00212   0.0009461     0.00307   3.659e-06  AOI21X1
+U20                            0.0003124    0.001354    0.001668   1.742e-06  INVX1
+U14                             0.001054   0.0005932    0.001651   3.659e-06  AOI21X1
+U26                            0.0004898   0.0009853    0.001477   1.742e-06  INVX1
+U28                            0.0003423    0.001092    0.001436   1.742e-06  INVX1
+U30                            0.0003487   0.0009433    0.001294   1.742e-06  INVX1
+U21                            0.0004993   0.0001076   0.0006126   5.612e-06  NOR3X1
+U22                            7.487e-05   0.0001845   0.0002611   1.742e-06  INVX1
+
+---------------------------------------------------------------------------------------
+
+Total (     20 of     20  )       0.2526     0.03924     0.2922   0.0003897
+Total Capacitance                1.086e-13 F
+Power Density                   *** No Die Area ***
