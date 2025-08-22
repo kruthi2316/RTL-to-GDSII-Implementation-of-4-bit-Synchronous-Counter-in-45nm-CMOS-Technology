@@ -101,6 +101,17 @@ The flow covers:
 ![Timing Diagram](Images/Counter_Critical_path_DV.png)
 
 ---
+## Design Flow
+graph TD
+    A[RTL Design - Verilog] --> B[Functional Verification - NCLaunch]
+    B --> C[Logic Synthesis - Design Compiler]
+    C --> D[Gate-level Netlist - Design Vision]
+    D --> E[Floorplanning - Innovus]
+    E --> F[Placement - Innovus]
+    F --> G[Clock Tree Synthesis - Innovus]
+    G --> H[Routing - Innovus]
+    H --> I[Physical Verification - DRC/LVS]
+    I --> J[GDSII Generation]
 
 ## Author
 
