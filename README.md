@@ -102,7 +102,6 @@ The flow covers:
 
 ---
 ## Design Flow
-graph TD
     A[RTL Design - Verilog] --> B[Functional Verification - NCLaunch]
     B --> C[Logic Synthesis - Design Compiler]
     C --> D[Gate-level Netlist - Design Vision]
