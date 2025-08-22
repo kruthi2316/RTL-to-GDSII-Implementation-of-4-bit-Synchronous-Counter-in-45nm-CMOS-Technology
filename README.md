@@ -1,6 +1,6 @@
-# Counter Physical Design Project (RTL to GDSII)
+# RTL-to-GDSII Implementation of 4-bit Synchronous Counter in 45nm CMOS Technology
 
-## Overview
+## 📋Overview
 This project demonstrates the complete **ASIC Physical Design flow** for a simple **4-bit counter**, starting from RTL design to final GDSII layout.  
 The flow covers:
 - RTL design and simulation
@@ -12,7 +12,7 @@ The flow covers:
 
 ---
 
-## Tools Used
+## 🛠️Tools Used
 
 | Stage                         | Tool & Vendor                         |
 |--------------------------------|----------------------------------------|
@@ -26,7 +26,7 @@ The flow covers:
 
 ---
 
-## Project Flow
+## 📊Project Flow
 
 1. **RTL Design**
    - Developed a **4-bit synchronous counter** in Verilog.
